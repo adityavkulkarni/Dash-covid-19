@@ -1,0 +1,2 @@
+DATA UPDATED ON WEBSITE 
+https://dash-covid19.herokuapp.com/
